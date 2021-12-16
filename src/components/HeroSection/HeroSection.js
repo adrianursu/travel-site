@@ -1,7 +1,7 @@
 import React from 'react';
-import '../App.css';
-import { Button } from './Button';
-import './HeroSection.css';
+import '../../App.css';
+import { Button } from '../Button/Button';
+import '../HeroSection/HeroSection.css';
 // import video2 from '../videos/video-1.mp4';
 
 function HeroSection() {

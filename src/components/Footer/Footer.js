@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { Button } from './Button'
+import { Button } from '../Button/Button'
 import './Footer.css'
 
 function Footer() {
@@ -63,7 +63,7 @@ function Footer() {
             <i className ='fab fa-typo3' />
             </Link>
             </div>
-            <small className ='website-rights'>TRVL © 2020</small>
+            <small className ='website-rights'>TRVL © 2021</small>
             <div className ='social-icons'>
             <Link
             className ='social-icon-link facebook'
